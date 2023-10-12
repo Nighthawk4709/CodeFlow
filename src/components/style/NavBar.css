@@ -1,0 +1,55 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: 	#006600;
+    color: #fff;
+    width: 100%;
+  }
+  
+  /* .navbar-logo img {
+    width: 200px;
+  } */
+  
+  .navbar-menu {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-item {
+    margin: 0 10px;
+  }
+  
+  .navbar-item a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .navbar-search input {
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    width: 1000px;
+  }
+  
+
+  .logIn {
+    padding: 6px 2px;
+    background-color: grey;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .signUp {
+    padding: 6px 2px;
+    background-color: #0077cc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
